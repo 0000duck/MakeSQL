@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <Server>localhost</Server>
+  <UID>histest</UID>
+  <PWD>histest</PWD>
+  <DBName>zxbagl_gryy</DBName>
+  <DataSource>test</DataSource>
+</Items>
